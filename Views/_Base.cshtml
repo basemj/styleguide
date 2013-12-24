@@ -1,0 +1,52 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <!-- Responsive Master -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <title> - JustGiving</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/ui/2013/css/lib/0.2.1-pure-min.css">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:500,400,300,100">
+
+   
+    <!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="/ui/2013/css/global.css">
+    <!--[if lt IE 9]>
+        <link rel="stylesheet" type="text/css" href="/ui/2013/css/ie-no-media-queries.css">
+    <![endif]-->
+ 
+</head>
+
+<body>
+	
+	<!--NOTE: to do - remember to add the id's to the content for the skip links to work once the page content, nav and footer are done please, also add some more aria roles -->
+	<div>
+		<span class="off-screen">Skip Links</span>
+		<ul id="accessibility">
+			<li><a class="skip-link" href="#global-nav">Skip to main menu links</a></li>
+			<li><a class="skip-link" href="#main-content">Skip to content</a></li>
+			<li><a class="skip-link" href="#footer">Skip to footer</a></li>
+		</ul>
+	</div>
+	
+    @RenderBody()
+
+    <!-- Scripts -->
+	<script type="text/JavaScript" src="/ui/2013/scripts/global.js" />
+	<script src="//google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+
+    <!-- Custom Scripts -->
+    @RenderSection("BottomPageScripts", required: false)
+    
+    </body>
+</html>

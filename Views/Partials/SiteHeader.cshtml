@@ -1,0 +1,28 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+	
+@{
+    Layout = null;
+    var home = Model.Content.AncestorOrSelf(1);
+	var topLevelFolders = home.Children.Where(x => x.IsVisible() && x.IsDocumentType("topLevelFolder"));
+	var tlfCount = topLevelFolders.Count() + 1;
+}
+
+<nav id="nav" role="navigation">
+    <a href="#nav" id="show-nav" title="Show navigation">Show navigation</a>
+    <a href="#" id="hide-nav" title="Hide navigation">Hide navigation</a>
+    <ul id="nav-start" class="pure-g-r">
+        <li class="nav-top-level pure-u-1-@tlfCount"><a href="@home.Url">@home.GetPropertyValue("menuTitle")</a></li>
+		@foreach (var item in topLevelFolders) {
+			<li class="nav-top-level pure-u-1-@tlfCount">
+				<span>@item.GetPropertyValue("menuTitle")</span>
+				@if (item.Children.Where("Visible").Count() > 0) {
+					<ul class="nav-dropdown">
+						@foreach (var subpage in item.Children.Where("Visible")) {
+							<li><a href="@subpage.Url">@subpage.GetPropertyValue("menuTitle")</a></li>
+						}
+					</ul>
+				}
+			</li>
+		}
+    </ul>
+</nav>

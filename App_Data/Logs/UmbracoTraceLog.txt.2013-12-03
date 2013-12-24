@@ -1,0 +1,51 @@
+2013-12-03 09:54:28,882 [9] ERROR umbraco.DataLayer.SqlHelper`1[[System.Data.SqlClient.SqlParameter, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]] - [Thread 49] Error executing query UPDATE umbracoUserLogins SET timeout = @timeout WHERE contextId = @contextId
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at SNIReadSyncOverAsync(SNI_ConnWrapper* , SNI_Packet** , Int32 )
+   at SNINativeMethodWrapper.SNIReadSyncOverAsync(SafeHandle pConn, IntPtr& packet, Int32 timeout)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at umbraco.DataLayer.SqlHelpers.SqlServer.SqlServerHelper.ExecuteNonQuery(String commandText, SqlParameter[] parameters)
+   at umbraco.DataLayer.SqlHelper`1.ExecuteNonQuery(String commandText, IParameter[] parameters)
+2013-12-03 09:54:28,965 [9] ERROR umbraco.DataLayer.SqlHelper`1[[System.Data.SqlClient.SqlParameter, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]] - [Thread 55] Error executing query UPDATE umbracoUserLogins SET timeout = @timeout WHERE contextId = @contextId
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at SNIReadSyncOverAsync(SNI_ConnWrapper* , SNI_Packet** , Int32 )
+   at SNINativeMethodWrapper.SNIReadSyncOverAsync(SafeHandle pConn, IntPtr& packet, Int32 timeout)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   at umbraco.DataLayer.SqlHelpers.SqlServer.SqlServerHelper.ExecuteNonQuery(String commandText, SqlParameter[] parameters)
+   at umbraco.DataLayer.SqlHelper`1.ExecuteNonQuery(String commandText, IParameter[] parameters)
+2013-12-03 10:49:13,758 [9] INFO  umbraco.BasePages.BasePage - [Thread 55] User Basem Jawahri (Id: 0) logged in
+2013-12-03 11:24:02,363 [9] INFO  umbraco.cms.businesslogic.web.Document - [Thread 5] New document 1112
+2013-12-03 11:25:04,334 [9] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 34] Content 'live-demos' with Id '1112' has been published.
+2013-12-03 11:25:44,475 [9] INFO  umbraco.cms.businesslogic.web.Document - [Thread 34] New document 1113
+2013-12-03 11:25:58,464 [9] INFO  umbraco.cms.businesslogic.web.Document - [Thread 54] New document 1114
+2013-12-03 11:26:04,346 [9] INFO  umbraco.cms.businesslogic.web.Document - [Thread 42] New document 1115
+2013-12-03 11:26:11,317 [9] INFO  umbraco.cms.businesslogic.web.Document - [Thread 75] New document 1116
+2013-12-03 11:26:17,168 [9] INFO  umbraco.cms.businesslogic.web.Document - [Thread 78] New document 1117
+2013-12-03 11:26:27,147 [9] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 32] Content 'Page-layouts' with Id '1096' has been published.
+2013-12-03 11:26:29,377 [9] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 42] Content 'Get-started' with Id '1113' has been published.
+2013-12-03 11:26:31,377 [9] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 54] Content 'Page-layouts' with Id '1114' has been published.
+2013-12-03 11:26:33,638 [9] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 78] Content 'Blocks' with Id '1115' has been published.
+2013-12-03 11:26:50,452 [9] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 71] Content 'Elements' with Id '1116' has been published.
+2013-12-03 11:26:52,592 [9] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 78] Content 'Assets' with Id '1117' has been published.
+2013-12-03 14:34:05,974 [9] INFO  umbraco.BusinessLogic.Log - [Thread 67] Log scrubbed.  Removed all items older than 2013-10-04 14:34:05
