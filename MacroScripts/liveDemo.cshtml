@@ -1,0 +1,52 @@
+﻿@inherits umbraco.MacroEngines.DynamicNodeContext
+
+@*
+	Model = The current page the macro is executed on
+			@Model.bodyText
+
+	Parameter = collection of parameter values passed from the macro
+			@Paramter.myParam
+
+    Library = utillity library with common methods
+    		@Library.NodeById(1233)
+
+
+var lala = page.html.ToString();
+@Html.Raw(System.Web.HttpUtility.HtmlDecode(lala));
+
+*@
+
+@* The fun starts here *@
+
+@{
+	var page = Library.NodeById(Parameter.liveDemoSelect);
+}
+
+	@if (@page.hideAllCode == false) {
+		if (@page.HasValue("html") && @page.hideHTML == false) {
+			<h4>HTML:</h4>
+			<pre class="code language-html">@page.html</pre>
+		}
+		if (@page.HasValue("css") && @page.hideCSS == false) {
+			<h4>CSS:</h4>
+			<pre class="code language-css">@System.Web.HttpUtility.HtmlDecode(page.GetProperty("css").Value)</pre>
+		}
+		if (@page.HasValue("javascript") && @page.hideJavaScript == false) {
+			<h4>JavaScript:</h4>
+			<pre class="code language-js">@System.Web.HttpUtility.HtmlDecode(page.GetProperty("javascript").Value)</pre>
+		}
+	}
+
+	@if (@page.hideLiveDemo == false) {
+		<h4>Demo:</h4>
+		if (@page.HasValue("html") && @page.hideHTML == false) {
+			@Html.Raw(page.GetProperty("html").Value)
+		}
+		if (@page.HasValue("css") && @page.hideCSS == false) {
+			@Html.Raw(page.GetProperty("css").Value)
+		}
+		if (@page.HasValue("javascript") && @page.hideJavaScript == false) {
+			@Html.Raw(page.GetProperty("javascript").Value)
+		}
+	}
+

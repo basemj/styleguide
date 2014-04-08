@@ -1,4 +1,5 @@
 ﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@using umbraco.NodeFactory;
 
 @{
     Layout = "_LayoutResponsive.cshtml";
@@ -8,7 +9,8 @@
 	<div class="pure-g-r">
 		<div class="pure-u-1">
 			<div class="pure-gutter">
-				@Umbraco.Field("content")
+				<h1>@Umbraco.Field("pageTitle")</h1>
+        @Umbraco.Field("content")
 			</div>
 		</div>
 	</div>

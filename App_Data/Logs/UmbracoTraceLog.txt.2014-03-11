@@ -1,0 +1,782 @@
+2014-03-11 13:19:05,838 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2014-03-11 13:19:05,851 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 9ms)
+2014-03-11 13:19:05,856 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-03-11 13:19:06,037 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 180ms)
+2014-03-11 13:19:06,055 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-03-11 13:19:06,058 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 3ms)
+2014-03-11 13:19:06,059 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-03-11 13:19:06,062 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 3ms)
+2014-03-11 13:19:06,062 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-03-11 13:19:06,065 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 2ms)
+2014-03-11 13:19:06,068 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-03-11 13:19:06,072 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2014-03-11 13:19:06,072 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-03-11 13:19:06,077 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 5ms)
+2014-03-11 13:19:06,241 [10] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2014-03-11 13:19:06,517 [10] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2014-03-11 13:19:06,524 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplication
+2014-03-11 13:19:06,535 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 10ms)
+2014-03-11 13:19:06,670 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 13:19:06,688 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 18ms)
+2014-03-11 13:19:06,831 [10] INFO  umbraco.content - [Thread 11] Loading content from disk cache...
+2014-03-11 13:19:07,628 [10] INFO  Umbraco.Core.PluginManager - [Thread 11] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-03-11 13:19:07,633 [10] INFO  Umbraco.Core.PluginManager - [Thread 11] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 4ms)
+2014-03-11 13:19:42,098 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-03-11 13:19:42,101 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 3ms)
+2014-03-11 13:19:42,237 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Starting resolution types of umbraco.interfaces.IDataType
+2014-03-11 13:19:42,251 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 13ms)
+2014-03-11 13:19:42,254 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 13:19:42,278 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 23ms)
+2014-03-11 13:19:42,288 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Starting resolution types of umbraco.MacroEngines.IRazorDataTypeModel
+2014-03-11 13:19:42,292 [10] INFO  Umbraco.Core.PluginManager - [Thread 16] Completed resolution of types of umbraco.MacroEngines.IRazorDataTypeModel, found 2 (took 3ms)
+2014-03-11 13:19:58,962 [10] INFO  umbraco.BasePages.BasePage - [Thread 12] User Basem Jawahri (Id: 0) logged in
+2014-03-11 13:19:58,989 [10] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-03-11 13:19:58,993 [10] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 3ms)
+2014-03-11 13:26:07,099 [10] WARN  umbraco.macro - [Thread 6] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 13:29:36,191 [10] WARN  umbraco.macro - [Thread 8] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 13:29:39,107 [10] WARN  umbraco.macro - [Thread 8] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 13:36:01,721 [10] WARN  umbraco.macro - [Thread 12] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 24
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 13:59:12,275 [10] WARN  umbraco.macro - [Thread 22] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid2[T0,T1](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 26
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 13:59:47,958 [10] WARN  umbraco.macro - [Thread 21] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 13:59:52,056 [10] WARN  umbraco.macro - [Thread 24] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 13:59:54,689 [10] WARN  umbraco.macro - [Thread 29] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:00:15,219 [10] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2014-01-10 14:00:15
+2014-03-11 14:00:15,221 [10] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 17] Application shutdown. Reason: MaxRecompilationsReached
+2014-03-11 14:00:17,103 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Determining hash of code files on disk
+2014-03-11 14:00:17,112 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Hash determined (took 6ms)
+2014-03-11 14:00:17,113 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-03-11 14:00:17,206 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 92ms)
+2014-03-11 14:00:17,207 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-03-11 14:00:17,210 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2014-03-11 14:00:17,210 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-03-11 14:00:17,213 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 2ms)
+2014-03-11 14:00:17,213 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-03-11 14:00:17,217 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 3ms)
+2014-03-11 14:00:17,217 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-03-11 14:00:17,220 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2014-03-11 14:00:17,220 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-03-11 14:00:17,223 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 3ms)
+2014-03-11 14:00:17,283 [42] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 31] Initializing Examine and binding to business logic events
+2014-03-11 14:00:17,340 [42] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 31] Adding examine event handlers for index providers: 3
+2014-03-11 14:00:17,344 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.IApplication
+2014-03-11 14:00:17,351 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 6ms)
+2014-03-11 14:00:17,380 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 14:00:17,394 [42] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 13ms)
+2014-03-11 14:00:17,511 [42] INFO  umbraco.content - [Thread 34] Loading content from disk cache...
+2014-03-11 14:00:17,528 [42] INFO  Umbraco.Core.PluginManager - [Thread 35] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 14:00:17,545 [42] INFO  Umbraco.Core.PluginManager - [Thread 35] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 16ms)
+2014-03-11 14:00:17,569 [42] INFO  Umbraco.Core.PluginManager - [Thread 35] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-03-11 14:00:17,573 [42] INFO  Umbraco.Core.PluginManager - [Thread 35] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 3ms)
+2014-03-11 14:00:17,694 [42] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-03-11 14:00:17,698 [42] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 3ms)
+2014-03-11 14:00:18,266 [42] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of umbraco.interfaces.IDataType
+2014-03-11 14:00:18,278 [42] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 11ms)
+2014-03-11 14:00:18,287 [42] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of umbraco.MacroEngines.IRazorDataTypeModel
+2014-03-11 14:00:18,291 [42] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of umbraco.MacroEngines.IRazorDataTypeModel, found 2 (took 3ms)
+2014-03-11 14:00:18,299 [42] WARN  umbraco.macro - [Thread 34] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:00:18,392 [42] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-03-11 14:00:18,397 [42] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 4ms)
+2014-03-11 14:03:59,720 [42] WARN  umbraco.macro - [Thread 25] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid2[T0,T1](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 26
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:04:07,418 [42] WARN  umbraco.macro - [Thread 24] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 26
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:09:48,702 [42] WARN  umbraco.macro - [Thread 24] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string, System.IO.TextWriter)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object , StringWriter )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 27
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:09:50,831 [42] WARN  umbraco.macro - [Thread 7] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string, System.IO.TextWriter)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object , StringWriter )
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 27
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:09:52,310 [42] WARN  umbraco.macro - [Thread 22] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string, System.IO.TextWriter)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object , StringWriter )
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 27
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:10:07,766 [42] WARN  umbraco.macro - [Thread 44] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string, System.IO.TextWriter)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object , StringWriter )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 27
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:10:22,708 [42] WARN  umbraco.macro - [Thread 45] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string, System.IO.TextWriter)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object , StringWriter )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 27
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:10:23,862 [42] WARN  umbraco.macro - [Thread 27] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string, System.IO.TextWriter)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object , StringWriter )
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 27
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:11:09,547 [42] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2014-01-10 14:11:09
+2014-03-11 14:11:09,548 [42] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 15] Application shutdown. Reason: MaxRecompilationsReached
+2014-03-11 14:11:10,063 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Determining hash of code files on disk
+2014-03-11 14:11:10,071 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Hash determined (took 5ms)
+2014-03-11 14:11:10,072 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-03-11 14:11:10,180 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 108ms)
+2014-03-11 14:11:10,182 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-03-11 14:11:10,184 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2014-03-11 14:11:10,185 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-03-11 14:11:10,187 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 2ms)
+2014-03-11 14:11:10,188 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-03-11 14:11:10,191 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 3ms)
+2014-03-11 14:11:10,192 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-03-11 14:11:10,195 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2014-03-11 14:11:10,195 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-03-11 14:11:10,198 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 2ms)
+2014-03-11 14:11:10,258 [14] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 37] Initializing Examine and binding to business logic events
+2014-03-11 14:11:11,351 [14] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 37] Adding examine event handlers for index providers: 3
+2014-03-11 14:11:11,352 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of umbraco.interfaces.IApplication
+2014-03-11 14:11:11,358 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 6ms)
+2014-03-11 14:11:11,379 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 14:11:11,393 [14] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 14ms)
+2014-03-11 14:11:11,531 [14] INFO  umbraco.content - [Thread 21] Loading content from disk cache...
+2014-03-11 14:11:11,628 [14] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 14:11:11,642 [14] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 13ms)
+2014-03-11 14:11:11,665 [14] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-03-11 14:11:11,668 [14] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 3ms)
+2014-03-11 14:11:11,701 [14] INFO  Umbraco.Core.PluginManager - [Thread 21] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-03-11 14:11:11,705 [14] INFO  Umbraco.Core.PluginManager - [Thread 21] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 4ms)
+2014-03-11 14:11:12,268 [14] INFO  Umbraco.Core.PluginManager - [Thread 21] Starting resolution types of umbraco.interfaces.IDataType
+2014-03-11 14:11:12,280 [14] INFO  Umbraco.Core.PluginManager - [Thread 21] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 11ms)
+2014-03-11 14:11:12,289 [14] INFO  Umbraco.Core.PluginManager - [Thread 21] Starting resolution types of umbraco.MacroEngines.IRazorDataTypeModel
+2014-03-11 14:11:12,292 [14] INFO  Umbraco.Core.PluginManager - [Thread 21] Completed resolution of types of umbraco.MacroEngines.IRazorDataTypeModel, found 2 (took 3ms)
+2014-03-11 14:11:12,333 [14] INFO  Umbraco.Core.PluginManager - [Thread 21] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-03-11 14:11:12,337 [14] INFO  Umbraco.Core.PluginManager - [Thread 21] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 4ms)
+2014-03-11 14:12:14,222 [14] WARN  umbraco.macro - [Thread 44] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 26
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:18:53,799 [14] INFO  umbraco.BusinessLogic.Log - [Thread 54] Log scrubbed.  Removed all items older than 2014-01-10 14:18:53
+2014-03-11 14:18:53,800 [14] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 54] Application shutdown. Reason: MaxRecompilationsReached
+2014-03-11 14:18:54,365 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Determining hash of code files on disk
+2014-03-11 14:18:54,373 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Hash determined (took 5ms)
+2014-03-11 14:18:54,374 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-03-11 14:18:54,465 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 91ms)
+2014-03-11 14:18:54,466 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-03-11 14:18:54,469 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2014-03-11 14:18:54,469 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-03-11 14:18:54,472 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 2ms)
+2014-03-11 14:18:54,473 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-03-11 14:18:54,475 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 2ms)
+2014-03-11 14:18:54,476 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-03-11 14:18:54,479 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2014-03-11 14:18:54,480 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-03-11 14:18:54,483 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 3ms)
+2014-03-11 14:18:54,546 [28] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 73] Initializing Examine and binding to business logic events
+2014-03-11 14:18:54,598 [28] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 73] Adding examine event handlers for index providers: 3
+2014-03-11 14:18:54,601 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of umbraco.interfaces.IApplication
+2014-03-11 14:18:54,607 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2014-03-11 14:18:54,631 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 14:18:54,645 [28] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 14ms)
+2014-03-11 14:18:54,795 [28] INFO  Umbraco.Core.PluginManager - [Thread 40] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 14:18:54,808 [28] INFO  Umbraco.Core.PluginManager - [Thread 40] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 13ms)
+2014-03-11 14:18:54,831 [28] INFO  Umbraco.Core.PluginManager - [Thread 40] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-03-11 14:18:54,835 [28] INFO  Umbraco.Core.PluginManager - [Thread 40] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 3ms)
+2014-03-11 14:18:55,861 [28] INFO  umbraco.content - [Thread 41] Loading content from disk cache...
+2014-03-11 14:18:55,947 [28] INFO  Umbraco.Core.PluginManager - [Thread 41] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-03-11 14:18:55,951 [28] INFO  Umbraco.Core.PluginManager - [Thread 41] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 3ms)
+2014-03-11 14:18:56,555 [28] INFO  Umbraco.Core.PluginManager - [Thread 41] Starting resolution types of umbraco.interfaces.IDataType
+2014-03-11 14:18:56,568 [28] INFO  Umbraco.Core.PluginManager - [Thread 41] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 12ms)
+2014-03-11 14:18:56,577 [28] INFO  Umbraco.Core.PluginManager - [Thread 41] Starting resolution types of umbraco.MacroEngines.IRazorDataTypeModel
+2014-03-11 14:18:56,580 [28] INFO  Umbraco.Core.PluginManager - [Thread 41] Completed resolution of types of umbraco.MacroEngines.IRazorDataTypeModel, found 2 (took 3ms)
+2014-03-11 14:18:56,616 [28] INFO  Umbraco.Core.PluginManager - [Thread 41] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-03-11 14:18:56,621 [28] INFO  Umbraco.Core.PluginManager - [Thread 41] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 4ms)
+2014-03-11 14:26:29,067 [28] WARN  umbraco.macro - [Thread 70] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 26
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:26:53,248 [28] WARN  umbraco.macro - [Thread 14] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 26
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:26:55,567 [28] WARN  umbraco.macro - [Thread 57] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 26
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:27:15,439 [28] WARN  umbraco.macro - [Thread 66] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:27:16,198 [28] WARN  umbraco.macro - [Thread 39] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:27:25,354 [28] WARN  umbraco.macro - [Thread 14] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:27:34,406 [28] WARN  umbraco.macro - [Thread 65] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:27:35,444 [28] WARN  umbraco.macro - [Thread 5] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:28:50,772 [28] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2014-01-10 14:28:50
+2014-03-11 14:28:50,773 [28] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 58] Application shutdown. Reason: MaxRecompilationsReached
+2014-03-11 14:28:51,324 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Determining hash of code files on disk
+2014-03-11 14:28:51,332 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Hash determined (took 5ms)
+2014-03-11 14:28:51,332 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-03-11 14:28:51,420 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 88ms)
+2014-03-11 14:28:51,422 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-03-11 14:28:51,424 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2014-03-11 14:28:51,425 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-03-11 14:28:51,428 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 2ms)
+2014-03-11 14:28:51,428 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-03-11 14:28:51,431 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 2ms)
+2014-03-11 14:28:51,431 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-03-11 14:28:51,434 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 2ms)
+2014-03-11 14:28:51,434 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-03-11 14:28:51,437 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 2ms)
+2014-03-11 14:28:51,495 [85] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 73] Initializing Examine and binding to business logic events
+2014-03-11 14:28:51,546 [85] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 73] Adding examine event handlers for index providers: 3
+2014-03-11 14:28:51,549 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of umbraco.interfaces.IApplication
+2014-03-11 14:28:51,555 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2014-03-11 14:28:51,578 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 14:28:51,592 [85] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 13ms)
+2014-03-11 14:28:51,784 [85] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 14:28:51,798 [85] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 13ms)
+2014-03-11 14:28:51,825 [85] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-03-11 14:28:51,829 [85] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 3ms)
+2014-03-11 14:28:53,381 [85] INFO  umbraco.content - [Thread 14] Loading content from disk cache...
+2014-03-11 14:28:53,466 [85] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-03-11 14:28:53,470 [85] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 3ms)
+2014-03-11 14:28:54,029 [85] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.IDataType
+2014-03-11 14:28:54,041 [85] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 11ms)
+2014-03-11 14:28:54,050 [85] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.MacroEngines.IRazorDataTypeModel
+2014-03-11 14:28:54,053 [85] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.MacroEngines.IRazorDataTypeModel, found 2 (took 3ms)
+2014-03-11 14:28:54,089 [85] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-03-11 14:28:54,093 [85] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 4ms)
+2014-03-11 14:29:32,401 [85] WARN  umbraco.macro - [Thread 70] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:29:36,743 [85] WARN  umbraco.macro - [Thread 57] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'System.Web.HttpUtility.HtmlDecode(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 25
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 14:32:30,760 [85] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 56] Content 'sample' with Id '1120' has been published.
+2014-03-11 14:32:30,873 [85] INFO  Umbraco.Core.PluginManager - [Thread 56] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-03-11 14:32:30,880 [85] INFO  Umbraco.Core.PluginManager - [Thread 56] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 22 (took 6ms)
+2014-03-11 14:33:29,643 [85] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 38] Content 'sample' with Id '1120' has been published.
+2014-03-11 16:05:49,287 [85] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 114] Content 'sample' with Id '1120' has been published.
+2014-03-11 16:30:04,564 [85] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 53] Content 'sample' with Id '1120' has been published.
+2014-03-11 16:32:00,243 [85] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 95] Content 'sample' with Id '1120' has been published.
+2014-03-11 16:33:19,741 [85] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 121] Content 'sample' with Id '1120' has been published.
+2014-03-11 16:36:41,626 [85] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 103] Content 'sample' with Id '1120' has been published.
+2014-03-11 16:38:59,728 [85] INFO  umbraco.BusinessLogic.Log - [Thread 63] Log scrubbed.  Removed all items older than 2014-01-10 16:38:59
+2014-03-11 16:38:59,729 [85] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 63] Application shutdown. Reason: MaxRecompilationsReached
+2014-03-11 16:39:00,592 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Determining hash of code files on disk
+2014-03-11 16:39:00,600 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Hash determined (took 5ms)
+2014-03-11 16:39:00,601 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-03-11 16:39:00,692 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 91ms)
+2014-03-11 16:39:00,693 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-03-11 16:39:00,696 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2014-03-11 16:39:00,697 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-03-11 16:39:00,699 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 2ms)
+2014-03-11 16:39:00,699 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-03-11 16:39:00,702 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 2ms)
+2014-03-11 16:39:00,703 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-03-11 16:39:00,706 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2014-03-11 16:39:00,706 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-03-11 16:39:00,709 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 3ms)
+2014-03-11 16:39:00,793 [155] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 157] Initializing Examine and binding to business logic events
+2014-03-11 16:39:00,874 [155] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 157] Adding examine event handlers for index providers: 3
+2014-03-11 16:39:00,876 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Starting resolution types of umbraco.interfaces.IApplication
+2014-03-11 16:39:00,884 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 7ms)
+2014-03-11 16:39:00,902 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 16:39:00,916 [155] INFO  Umbraco.Core.PluginManager - [Thread 157] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 14ms)
+2014-03-11 16:39:01,047 [155] INFO  Umbraco.Core.PluginManager - [Thread 121] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 16:39:01,060 [155] INFO  Umbraco.Core.PluginManager - [Thread 121] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 13ms)
+2014-03-11 16:39:01,074 [155] INFO  Umbraco.Core.PluginManager - [Thread 121] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-03-11 16:39:01,077 [155] INFO  Umbraco.Core.PluginManager - [Thread 121] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 3ms)
+2014-03-11 16:39:01,270 [155] INFO  umbraco.content - [Thread 118] Loading content from disk cache...
+2014-03-11 16:39:01,356 [155] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-03-11 16:39:01,360 [155] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 3ms)
+2014-03-11 16:39:01,977 [155] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of umbraco.interfaces.IDataType
+2014-03-11 16:39:01,990 [155] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 12ms)
+2014-03-11 16:39:02,003 [155] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of umbraco.MacroEngines.IRazorDataTypeModel
+2014-03-11 16:39:02,011 [155] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of umbraco.MacroEngines.IRazorDataTypeModel, found 2 (took 7ms)
+2014-03-11 16:39:02,066 [155] INFO  Umbraco.Core.PluginManager - [Thread 118] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-03-11 16:39:02,070 [155] INFO  Umbraco.Core.PluginManager - [Thread 118] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 4ms)
+2014-03-11 16:39:42,928 [155] INFO  Umbraco.Core.PluginManager - [Thread 69] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-03-11 16:39:42,936 [155] INFO  Umbraco.Core.PluginManager - [Thread 69] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 22 (took 8ms)
+2014-03-11 16:57:01,339 [155] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 146] Content 'sample' with Id '1120' has been published.
+2014-03-11 16:57:44,801 [155] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 149] Content 'sample' with Id '1120' has been published.
+2014-03-11 17:07:10,180 [155] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 117] Content 'sample' with Id '1120' has been published.
+2014-03-11 17:07:37,596 [155] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 97] Content 'sample' with Id '1120' has been published.
+2014-03-11 17:11:51,988 [155] INFO  umbraco.BusinessLogic.Log - [Thread 134] Log scrubbed.  Removed all items older than 2014-01-10 17:11:51
+2014-03-11 17:11:51,989 [155] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 134] Application shutdown. Reason: MaxRecompilationsReached
+2014-03-11 17:11:54,091 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Determining hash of code files on disk
+2014-03-11 17:11:54,099 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Hash determined (took 5ms)
+2014-03-11 17:11:54,100 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-03-11 17:11:54,197 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 95ms)
+2014-03-11 17:11:54,198 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-03-11 17:11:54,201 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2014-03-11 17:11:54,201 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-03-11 17:11:54,204 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 2ms)
+2014-03-11 17:11:54,204 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-03-11 17:11:54,207 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 3ms)
+2014-03-11 17:11:54,207 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-03-11 17:11:54,211 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2014-03-11 17:11:54,211 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-03-11 17:11:54,214 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 2ms)
+2014-03-11 17:11:54,274 [53] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 85] Initializing Examine and binding to business logic events
+2014-03-11 17:11:54,328 [53] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 85] Adding examine event handlers for index providers: 3
+2014-03-11 17:11:54,332 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of umbraco.interfaces.IApplication
+2014-03-11 17:11:54,338 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 6ms)
+2014-03-11 17:11:54,362 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 17:11:54,376 [53] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 14ms)
+2014-03-11 17:11:54,472 [53] INFO  umbraco.content - [Thread 103] Loading content from disk cache...
+2014-03-11 17:11:54,518 [53] INFO  Umbraco.Core.PluginManager - [Thread 104] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 17:11:54,531 [53] INFO  Umbraco.Core.PluginManager - [Thread 104] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 13ms)
+2014-03-11 17:11:54,546 [53] INFO  Umbraco.Core.PluginManager - [Thread 104] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-03-11 17:11:54,549 [53] INFO  Umbraco.Core.PluginManager - [Thread 104] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 3ms)
+2014-03-11 17:11:54,683 [53] INFO  Umbraco.Core.PluginManager - [Thread 103] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-03-11 17:11:54,688 [53] INFO  Umbraco.Core.PluginManager - [Thread 103] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 5ms)
+2014-03-11 17:11:55,301 [53] INFO  Umbraco.Core.PluginManager - [Thread 103] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-03-11 17:11:55,306 [53] INFO  Umbraco.Core.PluginManager - [Thread 103] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 4ms)
+2014-03-11 17:15:48,171 [53] INFO  Umbraco.Core.PluginManager - [Thread 95] Starting resolution types of umbraco.interfaces.IDataType
+2014-03-11 17:15:48,189 [53] INFO  Umbraco.Core.PluginManager - [Thread 95] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 18ms)
+2014-03-11 17:15:48,200 [53] INFO  Umbraco.Core.PluginManager - [Thread 95] Starting resolution types of umbraco.MacroEngines.IRazorDataTypeModel
+2014-03-11 17:15:48,203 [53] INFO  Umbraco.Core.PluginManager - [Thread 95] Completed resolution of types of umbraco.MacroEngines.IRazorDataTypeModel, found 2 (took 3ms)
+2014-03-11 17:17:06,536 [53] INFO  umbraco.BusinessLogic.Log - [Thread 115] Log scrubbed.  Removed all items older than 2014-01-10 17:17:06
+2014-03-11 17:17:06,537 [53] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 115] Application shutdown. Reason: MaxRecompilationsReached
+2014-03-11 17:17:07,095 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Determining hash of code files on disk
+2014-03-11 17:17:07,103 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Hash determined (took 5ms)
+2014-03-11 17:17:07,104 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-03-11 17:17:07,197 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 93ms)
+2014-03-11 17:17:07,198 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-03-11 17:17:07,201 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2014-03-11 17:17:07,201 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-03-11 17:17:07,204 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 2ms)
+2014-03-11 17:17:07,204 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-03-11 17:17:07,207 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 2ms)
+2014-03-11 17:17:07,207 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-03-11 17:17:07,212 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 4ms)
+2014-03-11 17:17:07,212 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-03-11 17:17:07,215 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 3ms)
+2014-03-11 17:17:07,274 [151] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 144] Initializing Examine and binding to business logic events
+2014-03-11 17:17:07,339 [151] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 144] Adding examine event handlers for index providers: 3
+2014-03-11 17:17:07,341 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Starting resolution types of umbraco.interfaces.IApplication
+2014-03-11 17:17:07,349 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 7ms)
+2014-03-11 17:17:07,372 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 17:17:07,386 [151] INFO  Umbraco.Core.PluginManager - [Thread 144] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 14ms)
+2014-03-11 17:17:07,528 [151] INFO  Umbraco.Core.PluginManager - [Thread 79] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 17:17:07,543 [151] INFO  Umbraco.Core.PluginManager - [Thread 79] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 14ms)
+2014-03-11 17:17:07,557 [151] INFO  Umbraco.Core.PluginManager - [Thread 79] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-03-11 17:17:07,560 [151] INFO  Umbraco.Core.PluginManager - [Thread 79] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 3ms)
+2014-03-11 17:17:07,936 [151] INFO  umbraco.content - [Thread 63] Loading content from disk cache...
+2014-03-11 17:17:08,015 [151] INFO  Umbraco.Core.PluginManager - [Thread 63] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-03-11 17:17:08,019 [151] INFO  Umbraco.Core.PluginManager - [Thread 63] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 3ms)
+2014-03-11 17:17:08,678 [151] INFO  Umbraco.Core.PluginManager - [Thread 63] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-03-11 17:17:08,681 [151] INFO  Umbraco.Core.PluginManager - [Thread 63] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 3ms)
+2014-03-11 17:18:02,849 [151] WARN  umbraco.macro - [Thread 108] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: 'umbraco.MacroEngines.PropertyResult' does not contain a definition for 'value'
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 27
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 17:18:06,705 [151] WARN  umbraco.macro - [Thread 105] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: 'umbraco.MacroEngines.PropertyResult' does not contain a definition for 'value'
+   at CallSite.Target(Closure , CallSite , Object )
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 27
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-03-11 17:19:56,898 [151] INFO  Umbraco.Core.PluginManager - [Thread 110] Starting resolution types of umbraco.interfaces.IDataType
+2014-03-11 17:19:56,927 [151] INFO  Umbraco.Core.PluginManager - [Thread 110] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 28ms)
+2014-03-11 17:19:56,940 [151] INFO  Umbraco.Core.PluginManager - [Thread 110] Starting resolution types of umbraco.MacroEngines.IRazorDataTypeModel
+2014-03-11 17:19:56,945 [151] INFO  Umbraco.Core.PluginManager - [Thread 110] Completed resolution of types of umbraco.MacroEngines.IRazorDataTypeModel, found 2 (took 4ms)
+2014-03-11 17:20:14,808 [151] INFO  umbraco.BusinessLogic.Log - [Thread 115] Log scrubbed.  Removed all items older than 2014-01-10 17:20:14
+2014-03-11 17:20:14,808 [151] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 115] Application shutdown. Reason: MaxRecompilationsReached
+2014-03-11 17:20:15,681 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Determining hash of code files on disk
+2014-03-11 17:20:15,689 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Hash determined (took 5ms)
+2014-03-11 17:20:15,690 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-03-11 17:20:15,782 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 91ms)
+2014-03-11 17:20:15,784 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-03-11 17:20:15,787 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 3ms)
+2014-03-11 17:20:15,787 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-03-11 17:20:15,790 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 2ms)
+2014-03-11 17:20:15,790 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-03-11 17:20:15,793 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 2ms)
+2014-03-11 17:20:15,793 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-03-11 17:20:15,797 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 2ms)
+2014-03-11 17:20:15,797 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-03-11 17:20:15,802 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 4ms)
+2014-03-11 17:20:15,862 [100] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 37] Initializing Examine and binding to business logic events
+2014-03-11 17:20:15,919 [100] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 37] Adding examine event handlers for index providers: 3
+2014-03-11 17:20:15,920 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of umbraco.interfaces.IApplication
+2014-03-11 17:20:15,925 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2014-03-11 17:20:15,942 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 17:20:15,955 [100] INFO  Umbraco.Core.PluginManager - [Thread 37] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 13ms)
+2014-03-11 17:20:16,148 [100] INFO  Umbraco.Core.PluginManager - [Thread 114] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 17:20:16,161 [100] INFO  Umbraco.Core.PluginManager - [Thread 114] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 13ms)
+2014-03-11 17:20:16,176 [100] INFO  Umbraco.Core.PluginManager - [Thread 114] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-03-11 17:20:16,179 [100] INFO  Umbraco.Core.PluginManager - [Thread 114] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 3ms)
+2014-03-11 17:20:28,079 [100] INFO  Umbraco.Core.PluginManager - [Thread 98] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-03-11 17:20:28,088 [100] INFO  Umbraco.Core.PluginManager - [Thread 98] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 8ms)
+2014-03-11 17:20:28,113 [100] INFO  Umbraco.Core.PluginManager - [Thread 98] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-03-11 17:20:28,123 [100] INFO  Umbraco.Core.PluginManager - [Thread 98] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 9ms)
+2014-03-11 17:20:28,346 [100] INFO  umbraco.content - [Thread 98] Loading content from disk cache...
+2014-03-11 17:24:50,070 [100] INFO  umbraco.BusinessLogic.Log - [Thread 146] Log scrubbed.  Removed all items older than 2014-01-10 17:24:50
+2014-03-11 17:24:50,072 [100] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 146] Application shutdown. Reason: MaxRecompilationsReached
+2014-03-11 17:24:50,966 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Determining hash of code files on disk
+2014-03-11 17:24:50,974 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Hash determined (took 5ms)
+2014-03-11 17:24:50,974 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-03-11 17:24:51,069 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 94ms)
+2014-03-11 17:24:51,070 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-03-11 17:24:51,073 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2014-03-11 17:24:51,073 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-03-11 17:24:51,076 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 2ms)
+2014-03-11 17:24:51,077 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-03-11 17:24:51,080 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 3ms)
+2014-03-11 17:24:51,080 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-03-11 17:24:51,084 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2014-03-11 17:24:51,084 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-03-11 17:24:51,087 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 3ms)
+2014-03-11 17:24:51,146 [98] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 85] Initializing Examine and binding to business logic events
+2014-03-11 17:24:51,202 [98] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 85] Adding examine event handlers for index providers: 3
+2014-03-11 17:24:51,204 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of umbraco.interfaces.IApplication
+2014-03-11 17:24:51,210 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2014-03-11 17:24:51,227 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 17:24:51,241 [98] INFO  Umbraco.Core.PluginManager - [Thread 85] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 14ms)
+2014-03-11 17:24:51,405 [98] INFO  Umbraco.Core.PluginManager - [Thread 138] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 17:24:51,418 [98] INFO  Umbraco.Core.PluginManager - [Thread 138] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 13ms)
+2014-03-11 17:24:51,431 [98] INFO  Umbraco.Core.PluginManager - [Thread 138] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-03-11 17:24:51,434 [98] INFO  Umbraco.Core.PluginManager - [Thread 138] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 3ms)
+2014-03-11 17:24:51,456 [98] INFO  umbraco.content - [Thread 155] Loading content from disk cache...
+2014-03-11 17:24:51,570 [98] INFO  Umbraco.Core.PluginManager - [Thread 155] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-03-11 17:24:51,574 [98] INFO  Umbraco.Core.PluginManager - [Thread 155] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 3ms)
+2014-03-11 17:24:52,159 [98] INFO  Umbraco.Core.PluginManager - [Thread 155] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-03-11 17:24:52,163 [98] INFO  Umbraco.Core.PluginManager - [Thread 155] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 4ms)
+2014-03-11 17:25:41,039 [98] INFO  Umbraco.Core.PluginManager - [Thread 107] Starting resolution types of umbraco.interfaces.IDataType
+2014-03-11 17:25:41,072 [98] INFO  Umbraco.Core.PluginManager - [Thread 107] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 33ms)
+2014-03-11 17:25:55,303 [98] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 148] Content 'sample' with Id '1120' has been published.
+2014-03-11 17:25:55,435 [98] INFO  Umbraco.Core.PluginManager - [Thread 148] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-03-11 17:25:55,444 [98] INFO  Umbraco.Core.PluginManager - [Thread 148] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 22 (took 9ms)
+2014-03-11 17:34:10,581 [98] INFO  umbraco.BusinessLogic.Log - [Thread 137] Log scrubbed.  Removed all items older than 2014-01-10 17:34:10
+2014-03-11 17:34:10,582 [98] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 137] Application shutdown. Reason: MaxRecompilationsReached
+2014-03-11 17:34:11,412 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Determining hash of code files on disk
+2014-03-11 17:34:11,420 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Hash determined (took 5ms)
+2014-03-11 17:34:11,421 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-03-11 17:34:11,514 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 93ms)
+2014-03-11 17:34:11,515 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-03-11 17:34:11,518 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2014-03-11 17:34:11,518 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-03-11 17:34:11,521 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 2ms)
+2014-03-11 17:34:11,521 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-03-11 17:34:11,524 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 2ms)
+2014-03-11 17:34:11,524 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-03-11 17:34:11,528 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2014-03-11 17:34:11,528 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-03-11 17:34:11,531 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 3ms)
+2014-03-11 17:34:11,591 [118] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 73] Initializing Examine and binding to business logic events
+2014-03-11 17:34:11,647 [118] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 73] Adding examine event handlers for index providers: 3
+2014-03-11 17:34:11,648 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of umbraco.interfaces.IApplication
+2014-03-11 17:34:11,654 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2014-03-11 17:34:11,682 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 17:34:11,712 [118] INFO  Umbraco.Core.PluginManager - [Thread 73] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 29ms)
+2014-03-11 17:34:11,876 [118] INFO  Umbraco.Core.PluginManager - [Thread 97] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 17:34:11,903 [118] INFO  Umbraco.Core.PluginManager - [Thread 97] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 27ms)
+2014-03-11 17:34:11,933 [118] INFO  Umbraco.Core.PluginManager - [Thread 97] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-03-11 17:34:11,937 [118] INFO  Umbraco.Core.PluginManager - [Thread 97] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 4ms)
+2014-03-11 17:34:11,979 [118] INFO  umbraco.content - [Thread 130] Loading content from disk cache...
+2014-03-11 17:34:12,168 [118] INFO  Umbraco.Core.PluginManager - [Thread 130] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-03-11 17:34:12,172 [118] INFO  Umbraco.Core.PluginManager - [Thread 130] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 3ms)
+2014-03-11 17:34:12,723 [118] INFO  Umbraco.Core.PluginManager - [Thread 130] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-03-11 17:34:12,727 [118] INFO  Umbraco.Core.PluginManager - [Thread 130] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 4ms)
+2014-03-11 17:34:28,632 [118] INFO  Umbraco.Core.PluginManager - [Thread 53] Starting resolution types of umbraco.interfaces.IDataType
+2014-03-11 17:34:28,650 [118] INFO  Umbraco.Core.PluginManager - [Thread 53] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 18ms)
+2014-03-11 17:34:28,674 [118] INFO  Umbraco.Core.PluginManager - [Thread 53] Starting resolution types of umbraco.MacroEngines.IRazorDataTypeModel
+2014-03-11 17:34:28,679 [118] INFO  Umbraco.Core.PluginManager - [Thread 53] Completed resolution of types of umbraco.MacroEngines.IRazorDataTypeModel, found 2 (took 4ms)
+2014-03-11 17:40:42,306 [118] INFO  umbraco.BusinessLogic.Log - [Thread 79] Log scrubbed.  Removed all items older than 2014-01-10 17:40:42
+2014-03-11 17:40:42,307 [118] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 79] Application shutdown. Reason: MaxRecompilationsReached
+2014-03-11 17:40:42,896 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Determining hash of code files on disk
+2014-03-11 17:40:42,904 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Hash determined (took 5ms)
+2014-03-11 17:40:42,905 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-03-11 17:40:42,998 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 92ms)
+2014-03-11 17:40:42,999 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-03-11 17:40:43,002 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2014-03-11 17:40:43,002 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-03-11 17:40:43,011 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 8ms)
+2014-03-11 17:40:43,011 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-03-11 17:40:43,015 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 3ms)
+2014-03-11 17:40:43,015 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-03-11 17:40:43,018 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2014-03-11 17:40:43,018 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-03-11 17:40:43,021 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 2ms)
+2014-03-11 17:40:43,083 [108] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 31] Initializing Examine and binding to business logic events
+2014-03-11 17:40:43,137 [108] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 31] Adding examine event handlers for index providers: 3
+2014-03-11 17:40:43,142 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.IApplication
+2014-03-11 17:40:43,148 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 6ms)
+2014-03-11 17:40:43,170 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 17:40:43,199 [108] INFO  Umbraco.Core.PluginManager - [Thread 31] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 29ms)
+2014-03-11 17:40:43,350 [108] INFO  Umbraco.Core.PluginManager - [Thread 128] Starting resolution types of umbraco.interfaces.ITree
+2014-03-11 17:40:43,363 [108] INFO  Umbraco.Core.PluginManager - [Thread 128] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 13ms)
+2014-03-11 17:40:43,382 [108] INFO  Umbraco.Core.PluginManager - [Thread 128] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-03-11 17:40:43,389 [108] INFO  Umbraco.Core.PluginManager - [Thread 128] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 7ms)
+2014-03-11 17:40:43,475 [108] INFO  umbraco.content - [Thread 110] Loading content from disk cache...
+2014-03-11 17:40:43,565 [108] INFO  Umbraco.Core.PluginManager - [Thread 110] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-03-11 17:40:43,568 [108] INFO  Umbraco.Core.PluginManager - [Thread 110] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 3ms)
+2014-03-11 17:40:44,189 [108] INFO  Umbraco.Core.PluginManager - [Thread 110] Starting resolution types of umbraco.interfaces.IDataType
+2014-03-11 17:40:44,202 [108] INFO  Umbraco.Core.PluginManager - [Thread 110] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 12ms)
+2014-03-11 17:40:44,212 [108] INFO  Umbraco.Core.PluginManager - [Thread 110] Starting resolution types of umbraco.MacroEngines.IRazorDataTypeModel
+2014-03-11 17:40:44,215 [108] INFO  Umbraco.Core.PluginManager - [Thread 110] Completed resolution of types of umbraco.MacroEngines.IRazorDataTypeModel, found 2 (took 3ms)
+2014-03-11 17:40:44,280 [108] INFO  Umbraco.Core.PluginManager - [Thread 110] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-03-11 17:40:44,284 [108] INFO  Umbraco.Core.PluginManager - [Thread 110] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 4ms)
+2014-03-11 17:41:50,105 [108] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 156] Content 'sample' with Id '1120' has been published.
+2014-03-11 17:41:50,136 [108] INFO  Umbraco.Core.PluginManager - [Thread 156] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-03-11 17:41:50,144 [108] INFO  Umbraco.Core.PluginManager - [Thread 156] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 22 (took 8ms)

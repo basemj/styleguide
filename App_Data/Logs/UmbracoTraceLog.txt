@@ -1,23 +1,162 @@
-2013-12-24 02:05:23,527 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
-2013-12-24 02:05:23,543 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 10ms)
-2013-12-24 02:05:23,550 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
-2013-12-24 02:05:23,782 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 231ms)
-2013-12-24 02:05:23,807 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
-2013-12-24 02:05:23,812 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 5ms)
-2013-12-24 02:05:23,814 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
-2013-12-24 02:05:23,819 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 4ms)
-2013-12-24 02:05:23,819 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
-2013-12-24 02:05:23,824 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 4ms)
-2013-12-24 02:05:23,828 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
-2013-12-24 02:05:23,834 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 5ms)
-2013-12-24 02:05:23,834 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
-2013-12-24 02:05:23,840 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 5ms)
-2013-12-24 02:05:24,064 [16] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
-2013-12-24 02:05:24,503 [16] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
-2013-12-24 02:05:24,509 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplication
-2013-12-24 02:05:24,520 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 11ms)
-2013-12-24 02:05:24,611 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.ITree
-2013-12-24 02:05:24,639 [16] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 27ms)
-2013-12-24 02:05:24,888 [16] INFO  umbraco.content - [Thread 8] Loading content from disk cache...
-2013-12-24 02:05:28,545 [16] INFO  Umbraco.Core.PluginManager - [Thread 8] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
-2013-12-24 02:05:28,551 [16] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 6ms)
+2014-04-08 15:43:49,387 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2014-04-08 15:43:49,398 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 7ms)
+2014-04-08 15:43:49,398 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-04-08 15:43:49,534 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 17 (took 134ms)
+2014-04-08 15:43:49,536 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-04-08 15:43:49,539 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 3ms)
+2014-04-08 15:43:49,540 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-04-08 15:43:49,542 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 2ms)
+2014-04-08 15:43:49,543 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-04-08 15:43:49,546 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 3 (took 2ms)
+2014-04-08 15:43:49,547 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-04-08 15:43:49,551 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2014-04-08 15:43:49,551 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-04-08 15:43:49,554 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 3ms)
+2014-04-08 15:43:49,662 [11] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2014-04-08 15:43:50,060 [11] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2014-04-08 15:43:50,061 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplication
+2014-04-08 15:43:50,066 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2014-04-08 15:43:50,142 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.ITree
+2014-04-08 15:43:50,158 [11] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 16ms)
+2014-04-08 15:43:50,305 [11] INFO  umbraco.content - [Thread 12] Loading content from disk cache...
+2014-04-08 15:43:50,814 [11] INFO  Umbraco.Core.PluginManager - [Thread 12] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-04-08 15:43:50,818 [11] INFO  Umbraco.Core.PluginManager - [Thread 12] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 17 (took 4ms)
+2014-04-08 15:50:56,642 [11] INFO  umbraco.BasePages.BasePage - [Thread 24] User Basem Jawahri (Id: 0) logged in
+2014-04-08 15:50:56,731 [11] INFO  Umbraco.Core.PluginManager - [Thread 21] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-04-08 15:50:56,735 [11] INFO  Umbraco.Core.PluginManager - [Thread 21] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 3ms)
+2014-04-08 15:50:56,800 [11] INFO  Umbraco.Core.PluginManager - [Thread 21] Starting resolution types of umbraco.interfaces.ITree
+2014-04-08 15:50:56,813 [11] INFO  Umbraco.Core.PluginManager - [Thread 21] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 13ms)
+2014-04-08 15:51:35,498 [11] INFO  Umbraco.Core.PluginManager - [Thread 15] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2014-04-08 15:51:35,502 [11] INFO  Umbraco.Core.PluginManager - [Thread 15] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 3ms)
+2014-04-08 16:00:08,316 [11] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-04-08 16:00:08,333 [11] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 22 (took 16ms)
+2014-04-08 16:07:32,678 [11] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of umbraco.interfaces.IDataType
+2014-04-08 16:07:32,690 [11] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of umbraco.interfaces.IDataType, found 36 (took 12ms)
+2014-04-08 16:07:32,725 [11] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of umbraco.interfaces.IApplication
+2014-04-08 16:07:32,731 [11] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2014-04-08 16:07:32,739 [11] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of umbraco.interfaces.ITree
+2014-04-08 16:07:32,753 [11] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of umbraco.interfaces.ITree, found 27 (took 13ms)
+2014-04-08 16:07:32,761 [11] INFO  umbraco.content - [Thread 24] Loading content from database...
+2014-04-08 16:07:32,775 [11] INFO  Umbraco.Core.PluginManager - [Thread 20] Starting resolution types of umbraco.interfaces.ITree
+2014-04-08 16:07:32,775 [11] INFO  Umbraco.Core.PluginManager - [Thread 20] Completed resolution of types of umbraco.interfaces.ITree, found 37 (took 0ms)
+2014-04-08 16:07:32,777 [11] INFO  Umbraco.Core.PluginManager - [Thread 20] Starting resolution types of umbraco.BusinessLogic.Actions.IActionHandler
+2014-04-08 16:07:32,778 [11] INFO  Umbraco.Core.PluginManager - [Thread 20] Completed resolution of types of umbraco.BusinessLogic.Actions.IActionHandler, found 1 (took 0ms)
+2014-04-08 16:08:40,086 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 18] Content 'Get-started' with Id '1095' has been unpublished.
+2014-04-08 16:08:40,198 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 18] Content 'sample' with Id '1103' has been unpublished.
+2014-04-08 16:09:12,420 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 20] Content 'Get-started' with Id '1125' has been published.
+2014-04-08 16:09:21,447 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 5] Content 'Guiding principles' with Id '1127' has been published.
+2014-04-08 16:09:21,447 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 5] Content 'sample' with Id '1126' has been published.
+2014-04-08 16:09:33,287 [11] INFO  Umbraco.Core.PluginManager - [Thread 24] Starting resolution types of umbraco.MacroEngines.IRazorDataTypeModel
+2014-04-08 16:09:33,291 [11] INFO  Umbraco.Core.PluginManager - [Thread 24] Completed resolution of types of umbraco.MacroEngines.IRazorDataTypeModel, found 2 (took 3ms)
+2014-04-08 16:37:23,342 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 75] Content 'sample' with Id '1120' has been published.
+2014-04-08 16:45:43,567 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 67] Content 'sample' with Id '1120' has been published.
+2014-04-08 16:48:04,023 [11] INFO  umbraco.cms.businesslogic.web.Document - [Thread 44] New document 1128
+2014-04-08 16:48:11,939 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 54] Content 'Grid Structure' with Id '1128' has been unpublished.
+2014-04-08 16:48:34,840 [11] INFO  umbraco.cms.businesslogic.web.Document - [Thread 65] New document 1129
+2014-04-08 16:48:44,326 [11] INFO  umbraco.cms.businesslogic.web.Document - [Thread 43] New document 1130
+2014-04-08 16:48:59,218 [11] INFO  Umbraco.Core.Services.ContentService - [Thread 51] Content 'Grid Structure' with Id '1130' could not be published because its parent is not published.
+2014-04-08 16:48:59,218 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 51] Content 'Grid Structure' with Id '1130' has been published.
+2014-04-08 16:48:59,285 [11] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 51] Couldn't find any page with nodeId=1130. This is most likely caused by the page not being published.
+2014-04-08 16:49:11,586 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 54] Content 'Pure-grid' with Id '1129' has been published.
+2014-04-08 16:49:36,507 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 51] Content 'sample' with Id '1126' has been published.
+2014-04-08 16:50:29,147 [11] WARN  Umbraco.Web.Routing.DefaultUrlProvider - [Thread 47] Couldn't find any page with nodeId=1130. This is most likely caused by the page not being published.
+2014-04-08 16:50:35,251 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 46] Content 'Grid Structure' with Id '1130' has been published.
+2014-04-08 16:50:48,968 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 49] Content 'Grid-Structure' with Id '1130' has been published.
+2014-04-08 16:51:15,485 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 49] Content 'sample' with Id '1126' has been published.
+2014-04-08 16:51:27,733 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 71] Content 'sample' with Id '1126' has been published.
+2014-04-08 16:51:29,491 [11] WARN  umbraco.macro - [Thread 68] Error loading MacroEngine script (file: liveDemo.cshtml, Type: ''. Exception: System.ArgumentException: Cannot instantiate a DynamicNode without an id
+   at umbraco.MacroEngines.DynamicNode..ctor(String NodeId)
+   at umbraco.MacroEngines.Library.RazorLibraryCore.NodeById(String Id)
+   at ASP._Page_macroScripts_liveDemo_cshtml.Execute() in c:\Users\bjawahri\Documents\My Web Sites\style-guide\MacroScripts\liveDemo.cshtml:line 22
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy(IEnumerable`1 executors)
+   at System.Web.WebPages.WebPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at umbraco.MacroEngines.RazorMacroEngine.ExecuteRazor(MacroModel macro, INode currentPage)
+   at umbraco.MacroEngines.RazorMacroEngine.Execute(MacroModel macro, INode currentPage)
+   at umbraco.macro.loadMacroScript(MacroModel macro)
+   at umbraco.macro.renderMacro(Hashtable pageElements, Int32 pageId)
+2014-04-08 16:51:46,777 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 71] Content 'sample' with Id '1126' has been published.
+2014-04-08 16:52:25,560 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 68] Content 'sample' with Id '1126' has been published.
+2014-04-08 16:52:49,733 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 68] Content 'sample' with Id '1126' has been published.
+2014-04-08 16:53:05,320 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 5] Content 'sample' with Id '1126' has been published.
+2014-04-08 16:53:52,881 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 16] Content 'Grid-Structure' with Id '1130' has been published.
+2014-04-08 16:53:57,971 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 68] Content 'Grid-Structure' with Id '1130' has been published.
+2014-04-08 16:54:16,892 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 59] Content 'sample' with Id '1126' has been published.
+2014-04-08 16:54:31,687 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 65] Content 'Grid-Structure' with Id '1130' has been published.
+2014-04-08 16:54:40,221 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 59] Content 'Grid-Structure' with Id '1130' has been published.
+2014-04-08 16:54:51,270 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 36] Content 'Grid-Structure' with Id '1130' has been published.
+2014-04-08 16:54:56,110 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 36] Content 'Grid-Structure' with Id '1130' has been published.
+2014-04-08 16:55:05,479 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 34] Content 'Grid-Structure' with Id '1130' has been published.
+2014-04-08 16:55:24,483 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 12] Content 'Grid-Structure' with Id '1130' has been published.
+2014-04-08 16:55:30,343 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 12] Content 'Grid-Structure' with Id '1130' has been published.
+2014-04-08 16:55:54,445 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 71] Content 'sample' with Id '1126' has been published.
+2014-04-08 16:56:04,546 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 68] Content 'GridStructure' with Id '1130' has been published.
+2014-04-08 16:56:17,439 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 65] Content 'aaa' with Id '1130' has been published.
+2014-04-08 16:56:30,760 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 62] Content 'aaa' with Id '1130' has been published.
+2014-04-08 16:56:38,136 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 62] Content 'aaa' with Id '1130' has been published.
+2014-04-08 16:56:45,406 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 59] Content 'aaa' with Id '1130' has been published.
+2014-04-08 16:57:18,691 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 12] Content 'aaa' with Id '1130' has been unpublished.
+2014-04-08 16:57:26,575 [11] INFO  umbraco.cms.businesslogic.web.Document - [Thread 59] New document 1131
+2014-04-08 16:57:29,225 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 69] Content 'dfgsdg' with Id '1131' has been published.
+2014-04-08 16:57:45,433 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 16] Content 'sample' with Id '1126' has been published.
+2014-04-08 16:59:02,602 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 67] Content 'dfgsdg' with Id '1131' has been unpublished.
+2014-04-08 16:59:02,907 [11] INFO  UmbracoExamine.DataServices.UmbracoLogService - [Thread 58] Index is being optimized, Provider=InternalIndexer, NodeId=-1
+2014-04-08 16:59:11,432 [11] INFO  umbraco.cms.businesslogic.web.Document - [Thread 68] New document 1132
+2014-04-08 16:59:22,249 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 58] Content 'Grid Structure' with Id '1132' has been published.
+2014-04-08 16:59:45,645 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 67] Content 'sample' with Id '1126' has been published.
+2014-04-08 17:00:05,836 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 64] Content 'Grid Structure' with Id '1132' has been published.
+2014-04-08 17:00:25,546 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 66] Content 'Grid Structure' with Id '1132' has been published.
+2014-04-08 17:00:52,867 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 62] Content 'Grid-Structure' with Id '1126' has been published.
+2014-04-08 17:01:22,911 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 64] Content 'Pure-Grid' with Id '1126' has been published.
+2014-04-08 17:05:35,194 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 59] Content 'Pure-Grid' with Id '1126' has been published.
+2014-04-08 17:06:55,680 [11] INFO  umbraco.cms.businesslogic.web.Document - [Thread 58] New document 1133
+2014-04-08 17:07:09,769 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 61] Content 'Grid units' with Id '1133' has been published.
+2014-04-08 17:07:25,709 [11] INFO  umbraco.cms.businesslogic.web.Document - [Thread 66] New document 1134
+2014-04-08 17:08:02,192 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 25] Content 'Grid units with gutter' with Id '1134' has been published.
+2014-04-08 17:08:59,939 [11] INFO  umbraco.cms.businesslogic.web.Document - [Thread 41] New document 1135
+2014-04-08 17:09:08,825 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 66] Content 'grid units mobile' with Id '1135' has been published.
+2014-04-08 17:09:29,409 [11] INFO  umbraco.cms.businesslogic.web.Document - [Thread 41] New document 1136
+2014-04-08 17:09:40,240 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 64] Content 'grid units mobile 2' with Id '1136' has been published.
+2014-04-08 17:11:06,559 [11] INFO  umbraco.cms.businesslogic.web.Document - [Thread 25] New document 1137
+2014-04-08 17:11:16,296 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 58] Content 'grid unit combinations' with Id '1137' has been published.
+2014-04-08 17:13:27,725 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 64] Content 'Pure-Grid' with Id '1126' has been published.
+2014-04-08 17:14:32,445 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 28] Content 'Pure-Grid' with Id '1126' has been published.
+2014-04-08 17:15:06,628 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 8] Content 'Pure-Grid' with Id '1126' has been published.
+2014-04-08 17:16:57,584 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 26] Content 'grid unit combinations' with Id '1137' has been published.
+2014-04-08 17:17:25,130 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 38] Content 'Grid units with gutter' with Id '1134' has been published.
+2014-04-08 17:17:32,176 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 26] Content 'Grid units' with Id '1133' has been published.
+2014-04-08 17:17:32,482 [11] INFO  UmbracoExamine.DataServices.UmbracoLogService - [Thread 25] Index is being optimized, Provider=ExternalIndexer, NodeId=-1
+2014-04-08 17:17:56,395 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 17] Content 'Grid units with gutter' with Id '1134' has been published.
+2014-04-08 17:18:03,948 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 27] Content 'Grid units' with Id '1133' has been published.
+2014-04-08 17:28:13,108 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 26] Content 'Organisms' with Id '1097' has been published.
+2014-04-08 17:28:20,506 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 37] Content 'Molecules' with Id '1098' has been published.
+2014-04-08 17:28:27,352 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 26] Content 'Atoms' with Id '1099' has been published.
+2014-04-08 17:28:46,945 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 35] Content 'Assets' with Id '1099' has been published.
+2014-04-08 17:28:54,471 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 61] Content 'Elements' with Id '1098' has been published.
+2014-04-08 17:29:02,222 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 17] Content 'Modules' with Id '1097' has been published.
+2014-04-08 17:57:46,127 [11] INFO  umbraco.CreatedPackageTasks - [Thread 62] Xml save started
+2014-04-08 17:59:54,775 [11] ERROR umbraco.cms.businesslogic.packager.CreatedPackage - [Thread 52] An error occurred
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Xml.XmlNode.AppendChild(XmlNode newChild)
+   at umbraco.cms.businesslogic.packager.CreatedPackage.Publish()
+2014-04-08 18:00:09,749 [11] ERROR umbraco.cms.businesslogic.packager.CreatedPackage - [Thread 19] An error occurred
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Xml.XmlNode.AppendChild(XmlNode newChild)
+   at umbraco.cms.businesslogic.packager.CreatedPackage.Publish()
+2014-04-08 18:00:26,581 [11] ERROR umbraco.cms.businesslogic.packager.CreatedPackage - [Thread 58] An error occurred
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Xml.XmlNode.AppendChild(XmlNode newChild)
+   at umbraco.cms.businesslogic.packager.CreatedPackage.Publish()
+2014-04-08 18:00:29,028 [11] ERROR umbraco.cms.businesslogic.packager.CreatedPackage - [Thread 37] An error occurred
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Xml.XmlNode.AppendChild(XmlNode newChild)
+   at umbraco.cms.businesslogic.packager.CreatedPackage.Publish()
+2014-04-08 18:00:54,557 [11] ERROR umbraco.cms.businesslogic.packager.CreatedPackage - [Thread 24] An error occurred
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Xml.XmlNode.AppendChild(XmlNode newChild)
+   at umbraco.cms.businesslogic.packager.CreatedPackage.Publish()
+2014-04-08 18:01:14,179 [11] ERROR umbraco.cms.businesslogic.packager.CreatedPackage - [Thread 24] An error occurred
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Xml.XmlNode.AppendChild(XmlNode newChild)
+   at umbraco.cms.businesslogic.packager.CreatedPackage.Publish()
